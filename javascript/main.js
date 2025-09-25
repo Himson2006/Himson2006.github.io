@@ -60,7 +60,7 @@ ScrollReveal().reveal('home-content p, .about-content, .certification-content', 
     /*Typed JS*/
 
 const typed = new Typed('#animated-text', {
-    strings: [' Frontend Developer', 'Data Analyst'],
+    strings: [' Frontend Developer', 'Data Analyst', 'ML Developer'],
     typeSpeed: 70,
     backSpeed: 70,
     backDelay: 1000,
