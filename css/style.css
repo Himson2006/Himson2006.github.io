@@ -417,10 +417,6 @@ span{
     resize: none;
 }
 
-.certificate-img {
-    border-radius: 0.5rem;
-}
-
 .contact form .btn{
     margin-top: 2rem;
     cursor: pointer;
